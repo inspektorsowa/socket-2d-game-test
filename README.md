@@ -1,6 +1,10 @@
 # socket-2d-game-test
 
-Run serve by:
+Install modules:
+
+    npm install
+
+Run server by:
 
     npm run start
 
